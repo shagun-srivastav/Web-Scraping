@@ -1,8 +1,6 @@
-# Web-Scraping
-Learnt the basics of web scraping using Beautiful Soup, inspired by Keith Galli's tutorial on the same.
+This repo consists of web scraping projects:
 
-The websites used as examples to scrape from:
+1. Keith Galli's tutorial on web scraping
 
-https://keithgalli.github.io/web-scraping/example.html
 
-https://keithgalli.github.io/web-scraping/webpage.html
+2. Obtaining price information of a product on Amazon
